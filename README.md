@@ -40,3 +40,9 @@ AngularJS Simple SEO provides a way of setting a page title, description, and ke
     });
 });
 ```
+
+## TODOs ##
+
+1. Add examples and a more comprehensive usage scenario
+1. Make it work with ngRouter
+1. Add bower ignore
