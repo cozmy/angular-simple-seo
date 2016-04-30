@@ -4,7 +4,7 @@
     "cozmy <cosmin@hyperion.co>"
   ],
   "description": "A simple and easy-to-use AngularJS service which provides support for setting a page's title, description, and keywords. Can be viewed as an extension for AngularUI Router.",
-  "main": "seimple-seo.js",
+  "main": "simple-seo.js",
   "keywords": [
     "angular",
     "angularjs",
